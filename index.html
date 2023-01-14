@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <link
+      href="https://fonts.googleapis.com/css?family=Press+Start+2P"
+      rel="stylesheet"
+    />
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="./assets/pokeball-icon.ico" />
+    <link rel="stylesheet" href="./style.css" />
+
+    <title>Pokédex - Procurar pokémon</title>
+  </head>
+  <body>
+    <div class="pokedex-logo">
+      <img src="./assets/pokedex_logo.png" alt="Pokédex Logo" />
+    </div>
+    <div id="container">
+      <div id="container-pokedex">
+        <div id="pokedex-elements">
+          <span id="pokemon-name"></span>
+          <img
+            id="pokedex"
+            src="./assets/pokedex-off.png"
+            alt="Pokédex da região de Kanto, em pixel art."
+          />
+          <img
+            id="pokemon-img"
+            src="./assets/pokemon-default.png"
+            alt="Pokémon"
+          />
+        </div>
+      </div>
+      <div id="container-form-search">
+        <form id="form-search">
+          <label for="pokemon-id">Nome ou ID do Pokémon</label>
+          <input
+            type="text"
+            id="pokemon-id"
+            name="pokemon-id"
+            placeholder="Exemplo: Pikachu ou 25"
+            required
+          />
+          <input type="submit" value="PESQUISAR" />
+        </form>
+      </div>
+    </div>
+    <script src="./script.js"></script>
+  </body>
+</html>
