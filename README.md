@@ -27,13 +27,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Assets usados no projeto.
 
-- [Pokédex Kanto em pixel art](https://www.pixilart.com/art/pokdex-kanto-sr2ba35c1012772){:target="_blank"}
+- <a href="https://www.pixilart.com/art/pokdex-kanto-sr2ba35c1012772" target="_blank">Pokédex Kanto em pixel art</a>
 
 ## :computer: Projeto
 
 O Pokédex Simple é uma aplicação onde você pode "simular" uma Pokédex, buscando pelo nome ou id do Pokémon.
 
-- [Acesse o projeto finalizado, online](https://joaoalvesxp.github.io/pokedex-simple){:target="_blank"}
+- [Acesse o projeto finalizado, online](https://joaoalvesxp.github.io/pokedex-simple)
 
 ---
 
