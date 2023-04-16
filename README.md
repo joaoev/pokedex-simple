@@ -37,4 +37,4 @@ O Pokédex Simple é uma aplicação onde você pode "simular" uma Pokédex, bus
 
 ---
 
-Feito com ♥ by joaoalvesxp
+Feito com ♥ by joaoev
