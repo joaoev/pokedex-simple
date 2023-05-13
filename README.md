@@ -33,7 +33,7 @@ Assets usados no projeto.
 
 O Pokédex Simple é uma aplicação onde você pode "simular" uma Pokédex, buscando pelo nome ou id do Pokémon.
 
-- [Acesse o projeto finalizado, online](https://joaoalvesxp.github.io/pokedex-simple)
+- [Acesse o projeto finalizado, online](https://joaoev.github.io/pokedex-simple)
 
 ---
 
